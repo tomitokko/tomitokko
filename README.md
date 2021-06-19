@@ -1,4 +1,4 @@
-### Hi there <img width="15" height="15" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">, welcome to my profile
+### Hi there <img width="20" height="20" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">, welcome to my profile
 
 <!--
 **tomitokko/tomitokko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
