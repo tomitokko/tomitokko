@@ -22,7 +22,7 @@
 
 - I create programming based tutorials on my [Youtube Channel](https://www.youtube.com/c/CodeWithTomi)
 
-- I also write technical articles on [My Blog](https://www.codewithtomi.ml/)
+- I also write technical articles on [My Blog](https://www.codewithtomi.com/)
 
 ---
 
